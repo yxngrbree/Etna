@@ -19,19 +19,19 @@ Etna is a Bash script that helps run multiple projects in order. It can run proj
 Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone <https://github.com/yxngrbree/Etna.git>
 cd etna
 chmod +x etna.sh
+```
 
 Run Etna normally:
-
+```
 ./etna.sh
-
+```
 
 Dry-run mode (simulate commands without running):
-
+```
 ./etna.sh -d
-
 
 Logs for each project: logs/PROJECT_NAME.log
 
