@@ -33,9 +33,13 @@ Run Etna normally:
 Dry-run mode (simulate commands without running):
 ```
 ./etna.sh -d
-
-Logs for each project: logs/PROJECT_NAME.log
-
-Summary report: etna_report.log
-
+```
+Logs for each project:
+```
+logs/PROJECT_NAME.log
+```
+Summary report:
+```
+etna_report.log
+```
 Progress saved in etna.state to resume interrupted runs
