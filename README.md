@@ -28,7 +28,8 @@ Run Etna normally:
 ```
 ./etna.sh
 ```
-
+```
+```
 Dry-run mode (simulate commands without running):
 ```
 ./etna.sh -d
